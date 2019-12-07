@@ -1,0 +1,26 @@
+name: 'Send Google Hangouts Chat'
+description: 'Send notification to Hangouts Chat via webhook.'
+author: 'yuki0n0'
+
+branding:
+  icon: 'unlock'
+  color: 'green'
+
+inputs:
+  key id:
+    description: ''
+    required: true
+  issuer id:
+    description: ''
+    required: true
+  key:
+    description: 'p8'
+    required: true
+
+outputs:
+  token:
+    description:
+
+runs:
+  using: 'node12'
+  main: 'main.js'

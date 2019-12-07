@@ -1,5 +1,5 @@
-name: 'Send Google Hangouts Chat'
-description: 'Send notification to Hangouts Chat via webhook.'
+name: 'App Store Connect API Token'
+description: 'App Store Connect API token generator.'
 author: 'yuki0n0'
 
 branding:

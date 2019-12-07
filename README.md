@@ -8,7 +8,7 @@ See [official document](https://developer.apple.com/documentation/appstoreconnec
 ```yml
 - name: Get token
   id: asc
-  uses: yuki0n0/action-appstoreconnect-token@master
+  uses: yuki0n0/action-appstoreconnect-token@v1.0
   with:
     issuer id: 00000000-0000-0000-0000-000000000000
     key id: AAAAAAAAAA

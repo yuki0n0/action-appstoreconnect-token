@@ -7,11 +7,11 @@ branding:
   color: 'green'
 
 inputs:
-  key id:
-    description: 'Key ID. Can get from App Store Connect.'
-    required: true
   issuer id:
     description: 'UUID. Can get from App Store Connect.'
+    required: true
+  key id:
+    description: 'Key ID. Can get from App Store Connect.'
     required: true
   key:
     description: 'P8 private key. Can get from App Store Connect.'

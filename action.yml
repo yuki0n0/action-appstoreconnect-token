@@ -8,18 +8,18 @@ branding:
 
 inputs:
   key id:
-    description: ''
+    description: 'Key ID. Can get from App Store Connect.'
     required: true
   issuer id:
-    description: ''
+    description: 'UUID. Can get from App Store Connect.'
     required: true
   key:
-    description: 'p8'
+    description: 'P8 private key. Can get from App Store Connect.'
     required: true
 
 outputs:
   token:
-    description:
+    description: 'Generated token to use App Store Connect API.'
 
 runs:
   using: 'node12'

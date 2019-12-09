@@ -3,7 +3,7 @@ description: 'App Store Connect API token generator.'
 author: 'yuki0n0'
 
 branding:
-  icon: 'unlock'
+  icon: 'key'
   color: 'green'
 
 inputs:

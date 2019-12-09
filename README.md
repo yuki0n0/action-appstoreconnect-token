@@ -1,7 +1,7 @@
 # App Store Connect API token generator
 
 Generate token to use App Store Connect API for GitHub Actions.<br>
-The token is valid for 20 minutes after acquiring.
+The token is valid for 20 minutes after acquiring.<br>
 See [official document](https://developer.apple.com/documentation/appstoreconnectapi) for details.
 
 ## Example usage

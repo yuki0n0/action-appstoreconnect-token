@@ -22,5 +22,5 @@ outputs:
     description: 'Generated token to use App Store Connect API.'
 
 runs:
-  using: 'node12'
+  using: 'node16'
   main: 'main.js'
